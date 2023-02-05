@@ -1,2 +1,3 @@
-# github_test
-dev lecture for github 
+# Practice Coding
+## Python practice
+나도 코딩
